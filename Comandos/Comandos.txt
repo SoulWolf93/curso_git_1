@@ -4,3 +4,4 @@ git add . -- Envia todos os arquivos
 git commit -- envia os arquivos editados git
 git commit (nome do arquivo) -m "mensagem" -- envia o arquivo com mensagem 
 git commit -a -- envia todos os arquivos
+git push -- Envia todos os arquivos que foram commitados para o github
