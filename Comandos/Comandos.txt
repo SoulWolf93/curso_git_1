@@ -1,0 +1,6 @@
+git status -- mostra o status do que precisa ser add ou commit
+git add (nome ou pasta do arquivo) -- envia aquele arquivo para adicionar
+git add . -- Envia todos os arquivos
+git commit -- envia os arquivos editados git
+git commit (nome do arquivo) -m "mensagem" -- envia o arquivo com mensagem 
+git commit -a -- envia todos os arquivos
