@@ -5,4 +5,4 @@ git commit -- envia os arquivos editados git
 git commit (nome do arquivo) -m "mensagem" -- envia o arquivo com mensagem 
 git commit -a -- envia todos os arquivos
 git push -- Envia todos os arquivos que foram commitados para o github
-git pull -- Baixa todos os arquivos do repositorio
+git pull -- Baixa todos os arquivos do repositorio que foram atualizados
