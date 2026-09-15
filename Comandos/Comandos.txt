@@ -8,4 +8,4 @@ git push -- Envia todos os arquivos que foram commitados para o github
 git pull -- Baixa todos os arquivos do repositorio que foram atualizados
 git clone -- Clona o projeto do repositor
 git rm (nome arquivo) --
-git log -- Faz log do que tem sido feito no git
+git log -- Faz log do que tem sido feito no git -- Teclar a tecla "Q" para sair do log
