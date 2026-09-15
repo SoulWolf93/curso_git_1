@@ -7,4 +7,5 @@ git commit -a -- envia todos os arquivos
 git push -- Envia todos os arquivos que foram commitados para o github
 git pull -- Baixa todos os arquivos do repositorio que foram atualizados
 git clone -- Clona o projeto do repositor
-git rm (nome arquivo) -- remove os arquivos
+git rm (nome arquivo) --
+git log -- Faz log do que tem sido feito no git
