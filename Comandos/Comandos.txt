@@ -11,3 +11,5 @@ git rm (nome arquivo) --
 git log -- Faz log do que tem sido feito no git -- Teclar a tecla "Q" para sair do log
 git mv -- pode renomear os arquivos ou mudar para outra pasta exemplo git mv rodape.css(local do arquivo) css/rodape.css(aonde vai o arquivo)
 git checkout -- pega o arquivo que inicia antes de qualquer alteração
+git reset --hard origem/master -- reset de tudo que foi feito
+gitignore -- fazer um arquivo chamado .gitignore e escrever o nome dos arquivos que serão ignorados.
