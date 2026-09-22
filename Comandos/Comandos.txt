@@ -15,3 +15,4 @@ git reset --hard origem/master -- reset de tudo que foi feito
 gitignore -- fazer um arquivo chamado .gitignore e escrever o nome dos arquivos que serão ignorados.
 git branch -- verificar os branchs disponiveis
 git branch "Nome do branch" -- Cria um novo branch
+git branch -d ou --delete -- deleta um branch
