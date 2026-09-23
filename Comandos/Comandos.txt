@@ -16,3 +16,5 @@ gitignore -- fazer um arquivo chamado .gitignore e escrever o nome dos arquivos 
 git branch -- verificar os branchs disponiveis
 git branch "Nome do branch" -- Cria um novo branch
 git branch -d ou --delete -- deleta um branch
+git checkout <nome> -- muda para o branch já criado
+git checkout -b <nome> -- muda o e cria um branch que estamos (colocar o nome do branch)
