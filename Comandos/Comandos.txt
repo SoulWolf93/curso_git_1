@@ -20,4 +20,5 @@ git checkout <nome> -- muda para o branch já criado
 git checkout -b <nome> -- muda o e cria um branch que estamos (colocar o nome do branch)
 git merger <nome> -- unifica 2 branchs
 git stash -- recomeça mas salva onde voce pode recuperar depois
-
+git stash list -- lista as stash que tem
+git stash <nome> -- recupera a stash
