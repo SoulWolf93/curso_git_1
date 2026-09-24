@@ -3,3 +3,9 @@ a
 branchc
 chamadoc
 saira
+ad
+b
+hard
+y
+g
+git
