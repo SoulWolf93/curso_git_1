@@ -26,3 +26,6 @@ git stash show -p <id stash> -- mostra o que foi alterado
 git stash clear -- limpa totalmente as stash
 git stash drop <nome> -- deleta uma stash específica
 git tag -a <nome> -m<msg> -- criar tags nos branchs, é um checkpoint de um branch
+git show <nome tag> -- verifica o detalhe da tags para sair usar a letra Q
+git push origin <nome da tag> -- tags podem ser enviadas para o repositorio
+git push origin --tags -- envia todas as tags
