@@ -32,3 +32,5 @@ git push origin --tags -- envia todas as tags
 git fetch -- mapea o branch de outros users
 git remote add origin <link> -- criamos repo remoto
 git remote rm origin
+git submodule add <repo> -- cria um sub repositorio
+git submodule -- verifica os submodule
