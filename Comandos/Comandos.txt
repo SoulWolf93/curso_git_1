@@ -29,3 +29,4 @@ git tag -a <nome> -m<msg> -- criar tags nos branchs, é um checkpoint de um bran
 git show <nome tag> -- verifica o detalhe da tags para sair usar a letra Q
 git push origin <nome da tag> -- tags podem ser enviadas para o repositorio
 git push origin --tags -- envia todas as tags
+git fetch -- mapea o branch de outros users
