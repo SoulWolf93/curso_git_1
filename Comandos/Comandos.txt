@@ -34,3 +34,4 @@ git remote add origin <link> -- criamos repo remoto
 git remote rm origin
 git submodule add <repo> -- cria um sub repositorio
 git submodule -- verifica os submodule
+git push --recurse-submodules=on-demand -- para subir alterações no submodule
