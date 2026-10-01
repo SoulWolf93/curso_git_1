@@ -35,3 +35,4 @@ git remote rm origin
 git submodule add <repo> -- cria um sub repositorio
 git submodule -- verifica os submodule
 git push --recurse-submodules=on-demand -- para subir alterações no submodule
+git clean -- limpa arquivos que não estão sendo trackeados arquivos que não foram utilizados o add .
