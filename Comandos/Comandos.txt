@@ -36,3 +36,4 @@ git submodule add <repo> -- cria um sub repositorio
 git submodule -- verifica os submodule
 git push --recurse-submodules=on-demand -- para subir alterações no submodule
 git diff -- exibe diferença de um branch
+git shortlog -- resumo de logs
